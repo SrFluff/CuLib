@@ -44,5 +44,6 @@ Next extract the colorama folder to the same folder as CuLib
 
 # Credits
 
+* Colorama - Jonathan Hartley
 * Python - Guido Van Rossum
 * CuLib - Franco M.
