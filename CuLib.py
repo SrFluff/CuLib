@@ -8,7 +8,7 @@ from colorama import Back, Fore
 
 # CuLib
 #
-# Version 1.0.0 'Journey's end'
+# Version 1.0.1 'Journey's near-end'
 #
 # Made by Franco M.
 
