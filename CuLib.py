@@ -4,6 +4,8 @@ import os
 import random
 import time
 
+from colorama import Back, Fore
+
 # CuLib
 #
 # Version 1.0.0 'Journey's end'
@@ -35,3 +37,7 @@ def wait(wai):
     #zzz zzz zzz zzz zzz zzz zzz
 
     time.sleep(wai)
+
+def white(whi):
+
+    print(Back.WHITE + Fore.BLACK + whi + Fore.RESET + Back.RESET)
